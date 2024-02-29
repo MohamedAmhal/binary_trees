@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_is_leaf - this is the function that return a boolean value
- * @tree: the binary tree
+ * @node: the binary tree
  * Return: integer value
  */
 
