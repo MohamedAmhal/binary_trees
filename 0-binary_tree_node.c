@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_node : this is the function that create a new node !
+ * binary_tree_node - this is the function that create a new node !
  * @parent: pointer that point of a tree
  * @value: the tree noeud!
  * Description: If parent already has a left-child, the new node
