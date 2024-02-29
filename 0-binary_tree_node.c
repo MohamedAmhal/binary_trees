@@ -4,9 +4,11 @@
  * binary_tree_node : this is the function that create a new node !
  * @parent: pointer that point of a tree
  * @value: the tree noeud!
- * Description: hhhhhhhhhddddddddd
+ * Description: If parent already has a left-child, the new node
+ * takes its place and the old left-child is set as
+ * the left-child of the new node.
  * Return: a binary tree!
-*/
+ */
 
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
